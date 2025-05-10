@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-22760
-Fork on GitHub
-7565
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Harsha vardhan</h1>
 <h3 align="center">A second-year B.Tech AIML student at Panimalar Engineering College. Passionate Python programmer and Machine Learning enthusiast currently exploring ML.</h3>
 

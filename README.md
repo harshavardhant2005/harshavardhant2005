@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **machine learning**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-website-42bcd.web.app/](https://portfolio-website-42bcd.web.app/)
+- 👨‍💻 All of my projects are available at [https:/harshavardhan.engineer/)
 
 - 📫 How to reach me **harshavardhant2410@gmail.com**
 
